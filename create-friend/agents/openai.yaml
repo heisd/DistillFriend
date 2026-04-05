@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create Friend"
+  short_description: "Create a reusable AI friend skill"
+  default_prompt: "Distill a friend into a reusable AI skill"
